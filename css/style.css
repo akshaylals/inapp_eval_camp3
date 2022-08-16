@@ -1,0 +1,23 @@
+.card-fab {
+    position: relative;
+    top: -20px;
+}
+
+.card-name {
+    vertical-align: top;
+    padding-left: 10px;
+}
+
+.card-desc{
+    font-size: small;
+}
+
+img.desc-card {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+}
+
+.content{
+    padding-top: 1vw;
+}
